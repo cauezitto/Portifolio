@@ -11,6 +11,18 @@ Olá! meu nome é Cauê Matheus, sou um desenvolvedor fullstack apaixonado pelo 
 
 Estou sempre em busca de novos desafios e oportunidades de colaboração. Se você está interessado em tecnologia, inovação e construção de soluções impactantes, vamos nos conectar e criar algo incrível juntos!
 
+## Projetos Realizados
+### Ignum
+![IGNUM](https://roady-router.s3.sa-east-1.amazonaws.com/7402cb9f_98f8_4a63_ba6a_228c1f296319_b39d429408.jpeg)
+
+O ignum e uma plataforma de atendimento whatsapp centralizada onde varios atendentes atraves de um unico numero de uma empresa podem:
+
+- Enviar mensagens
+- Transferir atendimentos
+- Agendar envio de mensagens
+- Categorizar atendimento e depois visualizar em metodo kanban
+
+
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauê-matheus-0080711a4/)
