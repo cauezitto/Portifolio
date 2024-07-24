@@ -12,7 +12,7 @@ Olá! meu nome é Cauê Matheus, sou um desenvolvedor fullstack apaixonado pelo 
 Estou sempre em busca de novos desafios e oportunidades de colaboração. Se você está interessado em tecnologia, inovação e construção de soluções impactantes, vamos nos conectar e criar algo incrível juntos!
 
 ## Projetos Realizados
-### Ignum
+### IGNUM
 #### Link para acessar o projeto: <a href="chat.ignum.com.br" target="_blank">chat.ignum.com.br</a>
 ![IGNUM](https://roady-router.s3.sa-east-1.amazonaws.com/7402cb9f_98f8_4a63_ba6a_228c1f296319_b39d429408.jpeg)
 
@@ -28,21 +28,31 @@ O ignum e uma plataforma de atendimento whatsapp centralizada onde varios atende
 E muito mais
 
 
-### Roady Vendas
+### ROADY VENDAS
 #### Link para acessar o projeto: <a href="https://play.google.com/store/apps/details?id=com.cauezitto.roadyroutermobile&hl=pt" target="_blank"> https://play.google.com/store/apps/details?id=com.cauezitto.roadyroutermobile&hl=pt</a>
 
 ![TELAS](https://roady-router.s3.sa-east-1.amazonaws.com/Desktop_1_9eed33c705.png)
 
 ![TELAS](https://roady-router.s3.sa-east-1.amazonaws.com/Desktop_2_e5ab169bb9.png)
 
-O mapa de clientes e um monitorador visual em tempo real das atividades de compra dos clientes da empresa, mostrando por periodos de compra em qual das categorias abaixo o cliente se enquadra
+Roady vendas e o aplicativo oficial que os representantes comerciais da <a href="https://roadymetais.com.br" target="_blank"> Roady Metais</a> utilizam em seu dia a dia para:
+####Funcionalidades Basicas
+- Digitar e enviar pedidos
+- Conferir as tabelas de preco
+- Ficar por dentro das novidades por meio das midias de marketing e tutoriais da tela inicial onde tambem e possivel fazer o compartilhamento das midias
+- Participar das Reunioes semanais da empresa
 
-- Comprando: Cliente fez uma compra a menos de 30 dias
-- Hibernando: Cliente fez uma compra no periodo de 31 a 39 dias
-- Sem compra: Cliente nao compra a 40 dias ou mais
+#### Mapa de clientes imbutido
+- Os vendedores tem acesso ao mapa de clientes Roady onde podem ver a classificacao do cliente e tambem ver a rota para a loja por meio da integracao com o waze
+
+#### Politicas Comerciais imbutidas
+- Clientes inadimplentes sao bloqueados e desbloqueados automaticamente
+- Desconto maximo permitido de 10%
+- Validacao de digitacao para evitar incoerencias de prazos e formas de pagamento
+- Calculadora de beneficios e bonificacoes conforme a media de compra do cliente
 
 
-### Mapa de clientes Roady
+### MAPA DE CLIENTES ROADY
 Por ser um projeto privado, nao e possivel diponibilizar link para acesso
 
 
