@@ -2,7 +2,7 @@
 
 Olá! meu nome é Cauê Matheus, sou um desenvolvedor fullstack apaixonado pelo universo da tecnologia, com especialização no ecossistema JavaScript. Minha jornada inclui desde a criação de aplicações web robustas até a exploração de dispositivos inteligentes e conectados.
 
-#### Um overview do que faço:
+### Um overview do que faço:
 
 - **Desenvolvimento Fullstack:** Tenho experiência em desenvolver soluções completas, desde o backend até o frontend, utilizando tecnologias como Node.js, React e React Native para criar experiências digitais de alto nível.
 - **Explorando o Mundo dos Sistemas Embarcados:** Além do desenvolvimento web, mergulho na criação de sistemas embarcados utilizando ferramentas como Arduino IDE e ESP32, para trazer à vida dispositivos inteligentes e conectados.
@@ -13,6 +13,7 @@ Estou sempre em busca de novos desafios e oportunidades de colaboração. Se voc
 
 ## Projetos Realizados
 ### Ignum
+#### Link para acessar o projeto: <a href="chat.ignum.com.br" target="_blank">chat.ignum.com.br</a>
 ![IGNUM](https://roady-router.s3.sa-east-1.amazonaws.com/7402cb9f_98f8_4a63_ba6a_228c1f296319_b39d429408.jpeg)
 
 O ignum e uma plataforma de atendimento whatsapp centralizada onde varios atendentes atraves de um unico numero de uma empresa podem:
@@ -21,7 +22,39 @@ O ignum e uma plataforma de atendimento whatsapp centralizada onde varios atende
 - Transferir atendimentos
 - Agendar envio de mensagens
 - Categorizar atendimento e depois visualizar em metodo kanban
+- Se comunicar com outros atendentes e setores da empresa pelo chat interno
+- Criar respostas rapidas para reutilizar depois por meio de atalhos durante o atendimento
 
+E muito mais
+
+
+### Roady Vendas
+#### Link para acessar o projeto: <a href="https://play.google.com/store/apps/details?id=com.cauezitto.roadyroutermobile&hl=pt" target="_blank"> https://play.google.com/store/apps/details?id=com.cauezitto.roadyroutermobile&hl=pt</a>
+
+![TELAS](https://roady-router.s3.sa-east-1.amazonaws.com/Desktop_1_9eed33c705.png)
+
+![TELAS](https://roady-router.s3.sa-east-1.amazonaws.com/Desktop_2_e5ab169bb9.png)
+
+O mapa de clientes e um monitorador visual em tempo real das atividades de compra dos clientes da empresa, mostrando por periodos de compra em qual das categorias abaixo o cliente se enquadra
+
+- Comprando: Cliente fez uma compra a menos de 30 dias
+- Hibernando: Cliente fez uma compra no periodo de 31 a 39 dias
+- Sem compra: Cliente nao compra a 40 dias ou mais
+
+
+### Mapa de clientes Roady
+Por ser um projeto privado, nao e possivel diponibilizar link para acesso
+
+
+![MAPA](https://roady-router.s3.sa-east-1.amazonaws.com/imagem_2024_07_24_123739585_9c19f7748f.png)
+
+O mapa de clientes e um monitorador visual em tempo real das atividades de compra dos clientes da empresa, mostrando por periodos de compra em qual das categorias abaixo o cliente se enquadra
+
+- Comprando: Cliente fez uma compra a menos de 30 dias
+- Hibernando: Cliente fez uma compra no periodo de 31 a 39 dias
+- Sem compra: Cliente nao compra a 40 dias ou mais
+
+E muito mais
 
 ## Conecte-se comigo
 
